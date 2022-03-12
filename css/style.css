@@ -105,6 +105,11 @@ main{
 .card__analityc p{
     color:var(--dark-grayish-blue)
 }
+footer{
+    background-color: var(--dark-cyan);
+    padding: 1rem 0;
+    color: white;
+}
 @media screen and (min-width: 992px) {
     main{
         background-size: 1100px, 1000px;
