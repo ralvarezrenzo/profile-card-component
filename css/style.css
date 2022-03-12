@@ -24,6 +24,7 @@ body{
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
 }
+/* main */
 main{
     width: 100%;
     min-height: 100vh;
@@ -48,6 +49,7 @@ main{
     background-color: #fff;
     border-radius: 1rem;
 }
+/* card */
 .card__bg{
     width: 100%;
     background-image: url(../images/bg-pattern-card.svg);
